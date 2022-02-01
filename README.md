@@ -14,7 +14,16 @@ wants to open-source, public domain, or keep the files private.
 
 # Bill of Materials
 
-* TBD
+| Reference | Description         | Digikey | Mouser  |
+| --------- | ------------------- |--------- | ------- |
+| R1        | **TBD** Resistor Value| TBD   |  TBD  |
+| R2        | **TBD** Resistor Value| TBD   |  TBD  |
+| C1        | 10uF Capacitor      | [Rubycon 100YXF10MEFC6.3X11](https://www.digikey.com/en/products/detail/rubycon/100YXF10MEFC6-3X11/3563099)   |  TBD  |
+| C2        | 10uF Capacitor      |  [Rubycon 100YXF10MEFC6.3X11](https://www.digikey.com/en/products/detail/rubycon/100YXF10MEFC6-3X11/3563099)   |  TBD  |
+| J1        | ATX Power Connector |  [Molex 39-28-8240](https://www.digikey.com/en/products/detail/molex/0039288240/930307?s=N4IgTCBcDaIKwGYAcBaBBOFZVLAFgAYQBdAXyA)| [Molex 39-28-8240](https://www.mouser.com/ProductDetail/538-39-28-8240) |
+| U1        | Max660 Charge Pump  |  [TI LMC760IN/NOPB](https://www.digikey.com/en/products/detail/texas-instruments/LMC7660IN-NOPB/32523)   | [TI LMC7660IN/NOPB](https://www.mouser.com/ProductDetail/Texas-Instruments/LMC7660IN-NOPB?qs=7lkVKPoqpbYEdm6mfQWnbw%3D%3D) |
+
+**NOTE: THESE COMPONENTS HAVE NOT BEEN VALIDATED!!! ORDER THESE AT YOUR OWN RISK**
 
 # Assembly instructions
 
