@@ -6,7 +6,10 @@ These files were originally developed by blusnowkitty on the 68kMLA forum. They 
 https://68kmla.org/bb/index.php?threads/mactx-lc-boards.38912/
 
 ```
-Once again, here's the mAcTX LC KiCad project. Public domain, do whatever, yadda yadda; I just ask that you don't use the mAcTX name if you use this in your own project and don't sell for profit. This only covers the LC version as the mAcTX IIc is owned by compgeke and it's his choice if he wants to open-source, public domain, or keep the files private.
+Once again, here's the mAcTX LC KiCad project. Public domain, do whatever, yadda yadda; I just ask 
+that you don't use the mAcTX name if you use this in your own project and don't sell for profit. 
+This only covers the LC version as the mAcTX IIc is owned by compgeke and it's his choice if he
+wants to open-source, public domain, or keep the files private.
 ```
 
 # Bill of Materials
