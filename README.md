@@ -29,7 +29,7 @@ wants to open-source, public domain, or keep the files private.
 [Schematic](https://github.com/akuker/mAcTX_LC/blob/main/KiCad/mactxlc_sch.pdf)
 
 ![mAcTX LC Top Image](/doc/mAcTX_LC_top.png)
-![mAcTX LC Bottom Image](/doc/mAcTX_LC_top.png)
+![mAcTX LC Bottom Image](/doc/mAcTX_LC_bottom.png)
 
 # Assembly instructions
 
