@@ -46,10 +46,18 @@ Some images from the [68kmla forums](https://68kmla.org/bb/index.php?threads/mac
 
 
 # Board
-[Schematic](https://github.com/akuker/mAcTX_LC/blob/main/KiCad/mactxlc_sch.pdf)
+
+## Version 1.3
+[Version 1.3 Schematic](https://github.com/akuker/mAcTX_LC/blob/main/KiCad/mactxlc_sch.pdf)
 
 ![mAcTX LC Top Image](/doc/mAcTX_LC_top.png)
 ![mAcTX LC Bottom Image](/doc/mAcTX_LC_bottom.png)
+
+## Version 2.0
+<img width="656" alt="Screen Shot 2022-02-20 at 4 55 33 PM" src="https://user-images.githubusercontent.com/34318535/154868976-15b14834-73c7-4928-99b0-a7df6185b50b.png">
+<img width="416" alt="Screen Shot 2022-02-20 at 4 56 36 PM" src="https://user-images.githubusercontent.com/34318535/154868978-9aac91c3-312a-4e26-b0de-3c1b1afa9fcd.png">
+
+
 
 # Assembly instructions
 
