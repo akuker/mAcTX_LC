@@ -12,18 +12,38 @@ This only covers the LC version as the mAcTX IIc is owned by compgeke and it's h
 wants to open-source, public domain, or keep the files private.
 ```
 
-# Bill of Materials
+Some images from the [68kmla forums](https://68kmla.org/bb/index.php?threads/mactx-atx-to-classic-macs.34492):
+
+<a href="/doc/DSC_9886.jpeg"><img src="/doc/DSC_9886.jpeg" width="200"/></a>
+<a href="/doc/IMG_4714.jpeg"><img src="/doc/IMG_4714.jpeg" width="200"/></a>
+
+# Version 1.3 Bill of Materials
 
 | Reference | Description         | Digikey | Mouser  |
 | --------- | ------------------- |--------- | ------- |
-| R1        | 10k Resistor Value| [PR01000101002JR500](https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/PR01000101002JR500/595971)   |  TBD  |
-| R2        | 10k Resistor Value| [PR01000101002JR500](https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/PR01000101002JR500/595971)   |  TBD  |
+| R1        | 10k Resistor | [PR01000101002JR500](https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/PR01000101002JR500/595971)   |  TBD  |
+| R2        | 10k Resistor | [PR01000101002JR500](https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/PR01000101002JR500/595971)   |  TBD  |
 | C1        | 10uF Capacitor      | [Rubycon 100YXF10MEFC6.3X11](https://www.digikey.com/en/products/detail/rubycon/100YXF10MEFC6-3X11/3563099)   |  TBD  |
 | C2        | 10uF Capacitor      |  [Rubycon 100YXF10MEFC6.3X11](https://www.digikey.com/en/products/detail/rubycon/100YXF10MEFC6-3X11/3563099)   |  TBD  |
 | J1        | ATX Power Connector |  [Molex 39-28-8240](https://www.digikey.com/en/products/detail/molex/0039288240/930307?s=N4IgTCBcDaIKwGYAcBaBBOFZVLAFgAYQBdAXyA)| [Molex 39-28-8240](https://www.mouser.com/ProductDetail/538-39-28-8240) |
-| U1        | Max660 Charge Pump  |  [TI LMC760IN/NOPB](https://www.digikey.com/en/products/detail/texas-instruments/LMC7660IN-NOPB/32523)   | [TI LMC7660IN/NOPB](https://www.mouser.com/ProductDetail/Texas-Instruments/LMC7660IN-NOPB?qs=7lkVKPoqpbYEdm6mfQWnbw%3D%3D) |
+| U1        | Max660 Charge Pump  |  [LMC7660IM-NOPB](https://www.digikey.com/en/products/detail/texas-instruments/LMC7660IM-NOPB/308019)|  TBD  |
 
 **NOTE: THESE COMPONENTS HAVE NOT BEEN VALIDATED!!! ORDER THESE AT YOUR OWN RISK**
+
+# Version 2.0 Bill of Materials
+
+| Reference | Description         | LCSC |
+| --------- | ------------------- |--------- |
+| R1        | 10k Resistor | C17903  |
+| R2        | 10k Resistor Value| C17903  |
+| C1        | 10uF Capacitor      |  C72485 |
+| C2        | 10uF Capacitor      |  C72485 |
+| J1        | ATX Power Connector |  TBD |
+| U1        | Max660 Charge Pump  |  C434489 |
+
+
+**NOTE: THESE COMPONENTS HAVE NOT BEEN VALIDATED!!! ORDER THESE AT YOUR OWN RISK**
+
 
 # Board
 [Schematic](https://github.com/akuker/mAcTX_LC/blob/main/KiCad/mactxlc_sch.pdf)
