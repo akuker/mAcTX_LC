@@ -14,7 +14,7 @@ wants to open-source, public domain, or keep the files private.
 
 ## Overview of mAcTX_LC
 
-<a href="https://www.youtube.com/embed/gn7fjLuN1d4"><img src="https://user-images.githubusercontent.com/34318535/154869209-d12866af-1ce4-4752-a14e-e9d6a8504451.png" width="200"/></a>
+<a href="https://www.youtube.com/watch?v=gn7fjLuN1d4"><img src="https://user-images.githubusercontent.com/34318535/154869209-d12866af-1ce4-4752-a14e-e9d6a8504451.png" width="200"/></a>
 
 ## Pictures
 
