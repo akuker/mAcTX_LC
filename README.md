@@ -11,6 +11,7 @@ that you don't use the mAcTX name if you use this in your own project and don't 
 This only covers the LC version as the mAcTX IIc is owned by compgeke and it's his choice if he
 wants to open-source, public domain, or keep the files private.
 ```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gn7fjLuN1d4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Some images from the [68kmla forums](https://68kmla.org/bb/index.php?threads/mactx-atx-to-classic-macs.34492):
 
