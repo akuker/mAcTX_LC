@@ -78,3 +78,9 @@ https://tinkerdifferent.com/threads/macintosh-connector-part-numbers.135/
 # Other versions
 
 Androda (https://androda.work/) is making a follow-on project called The LC MACAA Power Supply. Watch https://androda.work/shop/ for updates.
+
+# Connector notes
+
+* [Molex KK396 Series Datasheet](https://www.digikey.com/htmldatasheets/production/2998981/0/0/1/08-50-Prod-Spec.pdf)
+* [Molex KK Series Overview](http://www.literature.molex.com/SQLImages/kelmscott/Molex/PDF_Images/987650-9819.pdf)
+* [KK396 Product Overview](https://www.content.molex.com/dxdam/literature/987651-0405.pdf)
