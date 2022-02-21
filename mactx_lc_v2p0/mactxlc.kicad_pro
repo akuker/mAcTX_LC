@@ -384,7 +384,7 @@
       "idf": "",
       "netlist": "mactxlc.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "mactxlc.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
