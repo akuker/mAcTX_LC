@@ -23,7 +23,9 @@ Some images from the [68kmla forums](https://68kmla.org/bb/index.php?threads/mac
 <a href="/doc/DSC_9886.jpeg"><img src="/doc/DSC_9886.jpeg" width="200"/></a>
 <a href="/doc/IMG_4714.jpeg"><img src="/doc/IMG_4714.jpeg" width="200"/></a>
 
-# Version 1.3 Bill of Materials
+# Bill of Materials
+
+## Version 1.3 Bill of Materials
 
 | Reference | Description         | Digikey | Mouser  |
 | --------- | ------------------- |--------- | ------- |
@@ -36,7 +38,7 @@ Some images from the [68kmla forums](https://68kmla.org/bb/index.php?threads/mac
 
 **NOTE: THESE COMPONENTS HAVE NOT BEEN VALIDATED!!! ORDER THESE AT YOUR OWN RISK**
 
-# Version 2.0 Bill of Materials
+## Version 2.0 Bill of Materials
 
 | Reference | Description         | LCSC |
 | --------- | ------------------- |--------- |
@@ -50,6 +52,10 @@ Some images from the [68kmla forums](https://68kmla.org/bb/index.php?threads/mac
 
 **NOTE: THESE COMPONENTS HAVE NOT BEEN VALIDATED!!! ORDER THESE AT YOUR OWN RISK**
 
+## Other part numbers
+https://tinkerdifferent.com/threads/macintosh-connector-part-numbers.135/
+
+* LC Style Power Supply Connector: Molex KK396 [(source: TinkerDifferent)](https://tinkerdifferent.com/threads/macintosh-connector-part-numbers.135/)
 
 # Board
 
