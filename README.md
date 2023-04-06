@@ -12,6 +12,18 @@ This only covers the LC version as the mAcTX IIc is owned by compgeke and it's h
 wants to open-source, public domain, or keep the files private.
 ```
 
+Note: As of 06-Apr-2023, bluesnowkitty has updated the post with the following:
+
+```
+Alex Perez has reached out to me seeking permission to sell the design on his store, Rabbit Hole 
+Computing. I have authorized him to sell the mAcTX LC and use the mAcTX LC name for the product. 
+You are, of course, still free to download the design and make your own adaptations as you see fit; 
+I will no longer enforce the "Don't sell for profit" clause in my OP.
+
+Compgeke's mAcTX IIc will also be making an appearance on Rabbit Hole Computing, but it will still
+be Compgeke's choice if he wants to release the project files to the public.
+```
+
 ## Overview of mAcTX_LC
 
 <a href="https://www.youtube.com/watch?v=gn7fjLuN1d4"><img src="https://user-images.githubusercontent.com/34318535/154869209-d12866af-1ce4-4752-a14e-e9d6a8504451.png" width="200"/></a>
